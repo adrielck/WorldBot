@@ -5,20 +5,20 @@
 Este bot é feito para administrar servidores de discord. O bot apresenta funcionalidades como banir, kick , mute, sistema de voto, sistemas de tag automático, sistema de cursos, limpar chat, dentre outros.
 
 # Lista de comandos
-!linguagens
-!aviso
-!clear
-!avatar
-!mute
-!desmutar
-!ajuda
-!serverinfo
-!botinfo
-!musicaon
-!musicaoff
-!kick
-!ban
-!cursos
+*!linguagens
+*!aviso
+*!clear
+*!avatar
+*!mute
+*!desmutar
+*!ajuda
+*!serverinfo
+*!botinfo
+*!musicaon
+*!musicaoff
+*!kick
+*!ban
+*!cursos
 
 # Instalação
   Fazendo download do script git clone https://github.com/Adrieldeveloper/WorldBot/
