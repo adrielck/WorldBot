@@ -1,0 +1,2 @@
+# WorldBot
+Bot para Discord
