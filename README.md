@@ -24,12 +24,12 @@ Este bot é feito para administrar servidores de discord. O bot apresenta funcio
   Fazendo download do script git clone https://github.com/Adrieldeveloper/WorldBot/
 
 # Instalando python 3.8.x
-• Linux sudo apt-get install python3.8 && sudo apt-get install python-pip
+• Linux 
+* sudo apt-get install python3.8 && sudo apt-get install python-pip
 
 # Iniciar script
   python main.py
   
 # Rede Sociais
-   Twitter: https://twitter.com/adriel_dev
-   
-   Discord: Adriel.js#6889
+* Twitter: https://twitter.com/adriel_dev
+* Discord: Adriel.js#6889
