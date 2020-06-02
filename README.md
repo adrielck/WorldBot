@@ -31,6 +31,6 @@ Este bot é feita para administrar servidores de discord. O bot apresenta funcio
   python main.py
   
 # Rede Sociais
-   witter: https://twitter.com/adriel_dev
+   Twitter: https://twitter.com/adriel_dev
    
    Discord: Adriel.js#6889
