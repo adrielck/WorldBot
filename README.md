@@ -12,7 +12,6 @@ Este bot é feito para administrar servidores de discord. O bot apresenta funcio
  !mute
  !desmultar
  !ajuda
- !linguagens
  !serverinfo
  !botinfo
  !musicaon
