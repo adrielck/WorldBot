@@ -2,7 +2,7 @@
 
 #WorldBot
 
- Este bot e feita para administra servidores de discord , como banir, kick , multa , sistema de voto , sistemas de tag automatica, sistema de cursos , limpar chat entre outros.
+Este bot é feita para administrar servidores de discord. O bot apresenta funcionalidades como banir, kick , mute, sistema de voto, sistemas de tag automatica, sistema de cursos, limpar chat, dentre outros.
 
 #Lista de comandos
  !linguagens
