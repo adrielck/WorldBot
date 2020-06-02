@@ -32,4 +32,5 @@ Este bot é feita para administrar servidores de discord. O bot apresenta funcio
   
 # Rede Sociais
    witter: https://twitter.com/adriel_dev
+   
    Discord: Adriel.js#6889
