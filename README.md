@@ -4,7 +4,7 @@
 
  Este bot e feita para administra servidores de discord , como banir, kick , multa , sistema de voto , sistemas de tag automatica, sistema de cursos , limpar chat entre outros.
 
-#Lista de comandos🔰
+#Lista de comandos
  !linguagens
  !aviso
  !clear
