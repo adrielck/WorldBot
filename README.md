@@ -10,7 +10,7 @@ Este bot é feito para administrar servidores de discord. O bot apresenta funcio
  !clear
  !avatar
  !mute
- !desmultar
+ !desmutar
  !ajuda
  !serverinfo
  !botinfo
