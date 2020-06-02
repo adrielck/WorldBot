@@ -1,24 +1,17 @@
 # WorldBot
 Bot para Discord
 
-nstalação
+# Instalação
 Fazendo download do script
 git clone https://github.com/Adrieldeveloper/WorldBot/
 
-ou clique aqui.
-
-Instalando python 3.8.x
+# Instalando python 3.8.x
 • Linux
+    sudo apt-get install python3.8 && sudo apt-get install python-pip
 
-sudo apt-get install python3.8 && sudo apt-get install python-pip
-• MacOS
+# Iniciar script
 
-brew install python3.8
-Windows - Downlaod x86, Download x86-64
+  python main.py
 
-Iniciar script
 
-python main.py
-
-Como Funciona
 
