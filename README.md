@@ -33,4 +33,4 @@ Este bot é feito para administrar servidores de discord. O bot apresenta funcio
 # Rede Sociais
 * Twitter: https://twitter.com/adriel_dev
 * Discord:  Adriel.dll#4619
-* Instagram:https://www.instagram.com/adriel.ck/
+* Instagram:https://www.instagram.com/adriell.cardoso/
